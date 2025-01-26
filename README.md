@@ -10,7 +10,7 @@
 ## V0.2
 ### 1、细化了历史记录的查看，可以在左侧列表中选取相应的记录进行查看
 ![444444](https://github.com/user-attachments/assets/93d7752c-0a6e-4f65-babc-77d7752c74f5)
-### 2、新增“创建新聊天”按钮
+### 2、新增“新对话”按钮
 ![555555](https://github.com/user-attachments/assets/690fdedc-39e6-4639-899f-5382bd76b8c1)
 
 
